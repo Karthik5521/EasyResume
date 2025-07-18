@@ -1,5 +1,13 @@
 # EasyResume
-Swiftly craft clean ATS-friendly resumes. Options to change font, colours, links, and more. [Check it live](https://easyresume.vercel.app/)
 
-### Preview
-![easyresume](https://github.com/k2maan/easyresume/assets/59442907/26d43212-c1d5-40f8-9634-383064bfbb0a)
+ **EasyResume** is a sleek and modern resume builder built with React and Vite. It allows users to craft clean, ATS-friendly resumes with customizable fonts, colors, sections, and more — all in a few clicks.
+
+ **Live Demo**: [Check it live](https://easy-resume-karthik.vercel.app)
+
+---
+
+### 🔍 Preview
+
+[![EasyResume Preview](https://raw.githubusercontent.com/Karthik5521/EasyResume/main/assets/preview.png)](https://easy-resume-karthik.vercel.app)
+
+
