@@ -1,5 +1,6 @@
 # EasyResume
 
+
 **EasyResume** is a clean, minimal, and ATS-friendly LaTeX resume builder designed for professionals at any stage — from students to senior developers.
 
 ##  Features
@@ -10,15 +11,15 @@
 
 ---
 
-## 🌐 Live Site  
+##  Live Site  
 🔗 [karthik-easy-resume.vercel.app](https://karthik-easy-resume.vercel.app)
 
----
+
 
 ## 📸 Preview  
-<img src="./assets/preview.png" alt="EasyResume Preview" width="100%" />
+[![EasyResume Preview](./assets/preview.png)](https://karthik-easy-resume.vercel.app)
 
----
 
-## 👨‍💻 Author  
+
+
 Developed by [Karthik Majjiga](https://karthikmajjiga.vercel.app)
