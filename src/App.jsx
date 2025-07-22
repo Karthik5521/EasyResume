@@ -1,5 +1,6 @@
 import Layout from './components/Layout'
 import { useState } from 'react'
+import Footer from './components/Footer';
 
 function App() {
   const [font, setFont] = useState('Arial')
